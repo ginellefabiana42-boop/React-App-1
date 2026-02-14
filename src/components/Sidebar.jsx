@@ -23,7 +23,7 @@ export default function Sidebar({ initialMenuItems }) {
 
   return (
     <div>
-      {/* for adding new items and stuff */}
+      {/* for adding cool new items and stuff */}
       <input
         type="text"
         id="new-menu-item"
